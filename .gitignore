@@ -1,0 +1,7 @@
+.DS_Store
+/.idea/*
+/.env/*
+/.vscode/*
+/src/settings/local.py
+*.pyc
+*.code-workspace
